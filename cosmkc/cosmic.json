@@ -64,21 +64,16 @@
         "WHITE_500": "#F2D8FF",
         "GREEN_360": "#6C4E8F"
     },
-    "animatedBackground": {
-        "enabled": true,
-        "type": "particles",
-        "config": {
-            "colors": ["#BFA9FF", "#D88FFF", "#C28FFF"],
-            "speed": 2,
-            "density": 80,
-            "glowEffect": true,
-            "particleShape": "star",
-            "backgroundGradient": {
-                "from": "#0D011A",
-                "to": "#341245",
-                "direction": "diagonal"
-            }
-        }
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://windowscustomization.com/wp-content/uploads/2018/10/space-nebula-nvidia-recorded.gif",
+      "alpha": 0.9,
+      "color": "#282828"
+  
     },
-    "spec": 2
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
