@@ -1,6 +1,6 @@
 {
     "name": "Maggie's Purple",
-    "description": "Theme for people who like the color purple (Version 3.0 for Vendetta/Revenge)",
+    "description": "Theme for people who like the color purple (Version 3.1 for Vendetta/Revenge with animated background)",
     "authors": [
        
         {
@@ -10,7 +10,7 @@
         },
         {
             "name": "Lisa",
-            "id": 836161010053283890"
+            "id": "836161010053283890"
         }
     ],
     "semanticColors": {
@@ -129,6 +129,14 @@
         "PLUM_22": "#370d57",
         "PLUM_26": "#370d57"
        
+    },
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://i.imgur.com/7Hsx43T.gif",
+      "alpha": 0.9,
+      "color": "#282828"
+  
     },
     "plus": {
         "version": 0,
